@@ -1,21 +1,9 @@
-@import url(<link href="https://fonts.googleapis.com/css?family=Jolly+Lodger" rel="stylesheet">>);
-
-/* Header Styling */
-
-h1, h2, h3 {
-  text-align: center;
-  line-height: 100%;
-font-family: 'Jolly Lodger', cursive;';
+body{
+    background:grey;
 }
 
-h1 {
-  font-size: 50px;
+h1{
+    font-family: 'Jolly Lodger', cursive;
+    text-align: center;
 }
 
-h2 {
-  font-size: 40px;
-}
-
-h3 {
-  text-align: center;
-}
