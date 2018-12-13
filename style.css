@@ -1,8 +1,8 @@
-body{
-    background:grey;
+body {
+    background: grey;
 }
 
-h1{
+h1 {
     font-family: 'Jolly Lodger', cursive;
     text-align: center;
     font-size: 60px;
@@ -11,6 +11,7 @@ h2{
  font-family: 'Jolly Lodger', cursive;
 }
 
-#creepy{
-text-align: center;
+#creppy {
+    text-align: center;
+
 }
