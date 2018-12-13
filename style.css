@@ -1,20 +1,17 @@
-body{
-    background:grey;
+body {
+    background: grey;
 }
 
-h1{
+h1 {
     font-family: 'Jolly Lodger', cursive;
     text-align: center;
     font-size: 60px;
 }
 
-#creppy{
-  height: 50px;
-  width: 80px;
-  border: 1px dashed;
-  margin: auto;
-
+#creppy {
+    text-align: center;
 
 }
 
-    
+
+
