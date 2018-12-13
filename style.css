@@ -9,9 +9,11 @@ h1 {
 }
 h2{
  font-family: 'Jolly Lodger', cursive;
+  text-align: center;
+   font-size: 30px;
 }
 
 #creepy {
-    text-align: center;
+text-align: center;
 
 }
