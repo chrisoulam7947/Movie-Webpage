@@ -7,13 +7,14 @@ h1 {
     text-align: center;
     font-size: 60px;
 }
-h2{
-font-family: 'Sedgwick Ave', cursive;
-  text-align: center;
-   font-size: 20px;
+
+h2 {
+    font-family: 'Sedgwick Ave', cursive;
+    text-align: center;
+    font-size: 20px;
 }
 
 #creepy {
-text-align: center;
+    text-align: center;
 
 }
